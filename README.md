@@ -1,2 +1,1 @@
-# MASKAY
-## Applicant Tracking System
+# MASKAY | Applicant Tracking System
