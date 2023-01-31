@@ -1,0 +1,25 @@
+* {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: linear-gradient(0deg, rgb(13, 13, 13) 0%, rgb(124, 3, 140) 100%);
+}
+
+.center {
+  display: grid;
+  place-content: center;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 200px;
+}
+
+h2 {
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */

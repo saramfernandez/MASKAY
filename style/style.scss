@@ -1,0 +1,26 @@
+$black: rgba(0, 0, 0, 0);
+$lightViolet: #7C038C;
+
+*{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(0deg, rgba(13,13,13,1) 0%, rgba(124,3,140,1) 100%);
+}
+
+.center{
+    display: grid;
+    place-content: center;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+h1{
+    font-size: 200px;
+}
+h2{
+    font-size: 30px;
+}
